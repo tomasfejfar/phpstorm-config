@@ -5,7 +5,7 @@
     <location key="OptionsEditor.0.0.1366.768" x="63" y="0" />
   </component>
   <component name="LafManager">
-    <laf class-name="com.incors.plaf.alloy.AlloyIdea" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
   </component>
   <component name="PropertiesComponent">
     <property name="log.debug.categories" value="" />
