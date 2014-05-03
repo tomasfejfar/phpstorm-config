@@ -25,5 +25,6 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift control X" />
   </action>
+  <action id="context.save" />
 </keymap>
 
