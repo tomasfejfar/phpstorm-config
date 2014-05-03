@@ -10,5 +10,8 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift control Y" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift control X" />
+  </action>
 </keymap>
 
