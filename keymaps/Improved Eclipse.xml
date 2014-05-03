@@ -3,5 +3,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt G" second-keystroke="A" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control F4" />
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
 </keymap>
 
