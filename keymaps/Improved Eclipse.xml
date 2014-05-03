@@ -10,6 +10,9 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift control Y" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="INSERT" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift control H" />
   </action>
