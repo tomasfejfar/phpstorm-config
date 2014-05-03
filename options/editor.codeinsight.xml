@@ -2,6 +2,10 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Default">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="true" />
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="250" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+  </component>
     <option name="AUTOREPARSE_DELAY" value="300" />
     <option name="SHOW_ADD_IMPORT_HINTS" value="true" />
     <option name="NO_AUTO_IMPORT_PATTERN" value="[a-z].?" />
