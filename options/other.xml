@@ -6,6 +6,9 @@
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="PHPCodeStyle" />
   </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="ff" />
