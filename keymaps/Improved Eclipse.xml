@@ -7,5 +7,8 @@
     <keyboard-shortcut first-keystroke="control F4" />
     <keyboard-shortcut first-keystroke="control W" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift control Y" />
+  </action>
 </keymap>
 
