@@ -4,3 +4,4 @@ options/statistics.application.usages.xml
 options/other.xml
 options/appComponentVersions.xml
 options/encoding.xml
+componentVersions/*
